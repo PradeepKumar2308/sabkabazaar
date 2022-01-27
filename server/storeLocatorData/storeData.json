@@ -1,0 +1,24 @@
+{
+    "stores": [
+        {
+            "state": "Karnataka",
+            "latitude": 12.8872242,
+            "longitude": 77.5796373
+        },
+        {
+            "state": "Maharastra",
+            "latitude": 19.1269696,
+            "longitude": 72.7672933
+        },
+        {
+            "state": "Uttar Pradesh",
+            "latitude": 26.7500107,
+            "longitude": 81.1568582
+        },
+        {
+            "state":"Haryana",
+            "latitude":29.5471895,
+            "longitude":74.7112545
+        }
+    ]
+}
